@@ -36,4 +36,4 @@ Front-End - Desenvolvido com ReactJS com as seguintes dependências
     
 Banco de Dados Utilizado MYSQL
 
-Para Teste das API foi utilizado o Insomnia, colection segue dentro do projeto.
+Para Teste das API foi utilizado o Insomnia segue a collectio dentro do projeto.
